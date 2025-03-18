@@ -1,0 +1,4 @@
+rootProject.name = 'messaging_example'
+include 'service_producer'
+include 'service_consumer'
+
